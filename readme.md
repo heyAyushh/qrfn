@@ -1,3 +1,5 @@
+![qrfn](https://raw.githubusercontent.com/heyAyushh/qrfn/master/qrfn.jpg)
+
 # QRfn - QR generator on Azure funtion
 
 Generate QR code with text passed into query parameters of an Azure function.  
