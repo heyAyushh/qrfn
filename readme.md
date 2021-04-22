@@ -8,7 +8,7 @@ used [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) here.
 ***
 ## Quick Deploy to Azure  
   
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/)  
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F101-app-function%2Fazuredeploy.json)  
   
  > - Pass text in query parameter as  
 ```http://<your-az-func>/api/qrfn?text="<your-text-here>"```
